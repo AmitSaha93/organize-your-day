@@ -1,0 +1,31 @@
+:root {
+  --clr-bg-card: #ffffff;
+  --clr-border: #232b3d;
+  --clr-border-input: #000000;
+  --clr-text: #000000;
+  --clr-primary: #3b82f6;
+  --clr-primary-shadow: #3b82f666;
+  --clr-secondary: #6b7280;
+  --clr-red: #fc3d3d;
+
+  --font-1: 1rem;
+  --font-2: 0.85rem;
+  --font-3: 0.75rem;
+
+  --radius-1: 15px;
+  --radius-2: 10px;
+  --radius-3: 5px;
+
+  --space-1: 0.5rem;
+  --space-2: 0.75rem;
+  --space-3: 1rem;
+  --space-4: 1.5rem;
+  --space-5: 2rem;
+
+  --border-1: 1px;
+
+  --shadow-card: 0 6px 24px #0000004d;
+
+  --focus-border: var(--clr-primary);
+  --focus-border-shadow: 0 0 0 3px var(--clr-primary-shadow);
+}
